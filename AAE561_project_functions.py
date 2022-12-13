@@ -1,5 +1,5 @@
 """
-AAE497_project_functions.py: implementing primal-dual algorithms
+AAE561_project_functions.py: implementing primal-dual algorithms
                              model-known & model-free
     - Author: Vishnu Vijay
     - Created: 11/12/22

@@ -1,11 +1,11 @@
 """
-AAE497_project.py: testing primal-dual algos
+AAE561_project.py: testing primal-dual algos
     - Author: Vishnu Vijay
     - Created: 11/12/22
 """
 
 import mav_body_parameter as MBP
-import AAE497_project_functions as F
+import AAE561_project_functions as F
 
 from mav_state import MAV_State
 
